@@ -2341,7 +2341,7 @@ input, select, textarea {
 /* Medium */
 
 	#navPanel, #titleBar {
-		display: none;
+		display: none !important;
 	}
 
 	@media screen and (max-width: 980px) {
